@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tina-bean-codes
-- 👀 I’m interested in ...Coding languages such as Python, R programming, SQL, Tableau
+- 👀 I’m interested in ...Coding languages such as Python, HTML, CSS, JavaScript
 - 🌱 I’m currently learning ...Computer Science
 - 💞️ I’m looking to collaborate on ... projects and website buildings
 - 📫 How to reach me ...Retinajw@gmail.com
